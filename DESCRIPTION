@@ -1,0 +1,18 @@
+Package: SC19031
+Type: Package
+Title: DBSCAN
+Version: 1.0
+Date: 2019-12-29
+Author: Jia Shao
+Maintainer: Jia Shao <468574507@qq.com>
+Description: Quick operation based on DBSCAN clustering algorithm.
+Encoding: UTF-8
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3),Ball (>= 1.3.9),DAAG (>= 1.22.1),boot (>= 1.3-24),bootstrap (>= 2019.6),ks (>= 1.11.6),microbenchmark (>= 1.4-7)
+LinkingTo: Rcpp
+RoxygenNote: 7.0.2
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/SC19031/SC19031
+BugReports: http://github.com/SC19031/SC19031/issues
+
